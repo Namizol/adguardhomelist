@@ -60,3 +60,4 @@
 @@|www.wa.me^$important
 @@|youtubei.googleapis.com^$important
 @@|facebook.com^$important
+@@|mlcboard.com^$important
